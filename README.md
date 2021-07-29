@@ -5,3 +5,8 @@ https://channels.readthedocs.io/en/stable/tutorial/index.html
 redis server must be running on 6397
 
 command to run application: python3 manage.py runserver
+
+
+# .env file:
+
+SECRET_KEY=very_long_secret_string
